@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">THE FISH</string>
+    <string name="fiche_n_1">Fiche n°1 :</string>
+    <string name="fiche_n_2">Fiche n°2 :</string>
+    <string name="todo">TODO</string>
+</resources>
